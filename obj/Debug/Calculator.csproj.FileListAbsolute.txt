@@ -1,0 +1,16 @@
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\anutk\source\repos\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\anutk\source\repos\Calculator\obj\Debug\App.g.cs
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\anutk\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\anutk\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\anutk\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\anutk\source\repos\Calculator\obj\Debug\MainWindow.baml
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\anutk\source\repos\Calculator\obj\Debug\Calculator.pdb
